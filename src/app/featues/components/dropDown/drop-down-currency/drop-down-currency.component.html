@@ -1,0 +1,11 @@
+
+
+
+<mat-form-field appearance="fill">
+  <mat-label>Select Currency from</mat-label>
+  <mat-select  name="education_level" (selectionChange)="educationLevelChangeAction($event)" [(ngModel)]="selected">
+    <mat-option *ngFor="let education of rates" [value]="education" >{{ education.key }}</mat-option>
+  </mat-select>
+</mat-form-field>
+
+

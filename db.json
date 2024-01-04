@@ -1,0 +1,293 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "dateUpdate": "1699998697685",
+      "user": "300738267",
+      "currFrom": "USD",
+      "currTo": "ILS",
+      "value": "1",
+      "valueConvert": "3.63"
+    },
+    {
+      "dateUpdate": "1704340932201",
+      "id": 2,
+      "user": "300738267",
+      "currFrom": "AED",
+      "currTo": "AMD",
+      "value": "442.8036",
+      "valueConvert": "441.56721180694063"
+    },
+    {
+      "dateUpdate": "1704341510105",
+      "id": 3,
+      "user": "300738267",
+      "currFrom": "AED",
+      "currTo": "AFN",
+      "value": "77.8806",
+      "valueConvert": "116.49471479856403"
+    },
+    {
+      "dateUpdate": "1704341531205",
+      "id": 4,
+      "user": "300738267",
+      "currFrom": "AED",
+      "currTo": "AFN",
+      "value": "77.8806",
+      "valueConvert": "12930.913342640608"
+    },
+    {
+      "dateUpdate": "1704341556155",
+      "id": 5,
+      "user": "300738267",
+      "currFrom": "AED",
+      "currTo": "AED",
+      "value": "4.0112",
+      "valueConvert": "7"
+    },
+    {
+      "dateUpdate": "1704341610163",
+      "id": 6,
+      "user": "300738267",
+      "currFrom": "AED",
+      "currTo": "ALL",
+      "value": "104.5608",
+      "valueConvert": "26.06721180694057"
+    },
+    {
+      "dateUpdate": "1704341628545",
+      "id": 7,
+      "user": "300738267",
+      "currFrom": "AED",
+      "currTo": "AED",
+      "value": "4.0112",
+      "valueConvert": "6"
+    },
+    {
+      "dateUpdate": "1704341632128",
+      "id": 8,
+      "user": "300738267",
+      "currFrom": "AED",
+      "currTo": "ALL",
+      "value": "104.5608",
+      "valueConvert": "156.4032708416434"
+    },
+    {
+      "dateUpdate": "1704341657924",
+      "id": 9,
+      "user": "300738267",
+      "currFrom": "AMD",
+      "currTo": "AFN",
+      "value": "77.8806",
+      "valueConvert": "1.231164787278152"
+    },
+    {
+      "dateUpdate": "1704341766474",
+      "id": 10,
+      "user": "300738267",
+      "currFrom": "ALL",
+      "currTo": "AMD",
+      "value": "3",
+      "valueConvert": "12.704673261872518"
+    },
+    {
+      "dateUpdate": "1704341979716",
+      "id": 11,
+      "user": "300738267",
+      "currFrom": "AED",
+      "currTo": "AFN",
+      "value": "4",
+      "valueConvert": "77.6631431990427"
+    },
+    {
+      "dateUpdate": "1704341981617",
+      "id": 12,
+      "user": "300738267",
+      "currFrom": "AED",
+      "currTo": "AFN",
+      "value": "3",
+      "valueConvert": "58.247357399282016"
+    },
+    {
+      "dateUpdate": "1704341982063",
+      "id": 13,
+      "user": "300738267",
+      "currFrom": "AED",
+      "currTo": "AFN",
+      "value": "4",
+      "valueConvert": "77.6631431990427"
+    },
+    {
+      "dateUpdate": "1704341982241",
+      "id": 14,
+      "user": "300738267",
+      "currFrom": "AED",
+      "currTo": "AFN",
+      "value": "5",
+      "valueConvert": "97.07892899880335"
+    },
+    {
+      "dateUpdate": "1704341982415",
+      "id": 15,
+      "user": "300738267",
+      "currFrom": "AED",
+      "currTo": "AFN",
+      "value": "6",
+      "valueConvert": "116.49471479856403"
+    },
+    {
+      "dateUpdate": "1704341982579",
+      "id": 16,
+      "user": "300738267",
+      "currFrom": "AED",
+      "currTo": "AFN",
+      "value": "7",
+      "valueConvert": "135.91050059832472"
+    },
+    {
+      "dateUpdate": "1704341982767",
+      "id": 17,
+      "user": "300738267",
+      "currFrom": "AED",
+      "currTo": "AFN",
+      "value": "8",
+      "valueConvert": "155.3262863980854"
+    },
+    {
+      "dateUpdate": "1704341982912",
+      "id": 18,
+      "user": "300738267",
+      "currFrom": "AED",
+      "currTo": "AFN",
+      "value": "9",
+      "valueConvert": "174.74207219784603"
+    },
+    {
+      "dateUpdate": "1704341983096",
+      "id": 19,
+      "user": "300738267",
+      "currFrom": "AED",
+      "currTo": "AFN",
+      "value": "10",
+      "valueConvert": "194.1578579976067"
+    },
+    {
+      "dateUpdate": "1704341983267",
+      "id": 20,
+      "user": "300738267",
+      "currFrom": "AED",
+      "currTo": "AFN",
+      "value": "11",
+      "valueConvert": "213.5736437973674"
+    },
+    {
+      "dateUpdate": "1704341983415",
+      "id": 21,
+      "user": "300738267",
+      "currFrom": "AED",
+      "currTo": "AFN",
+      "value": "12",
+      "valueConvert": "232.98942959712807"
+    },
+    {
+      "dateUpdate": "1704341983581",
+      "id": 22,
+      "user": "300738267",
+      "currFrom": "AED",
+      "currTo": "AFN",
+      "value": "13",
+      "valueConvert": "252.40521539688874"
+    },
+    {
+      "dateUpdate": "1704341983739",
+      "id": 23,
+      "user": "300738267",
+      "currFrom": "AED",
+      "currTo": "AFN",
+      "value": "14",
+      "valueConvert": "271.82100119664943"
+    },
+    {
+      "dateUpdate": "1704341983912",
+      "id": 24,
+      "user": "300738267",
+      "currFrom": "AED",
+      "currTo": "AFN",
+      "value": "15",
+      "valueConvert": "291.2367869964101"
+    },
+    {
+      "dateUpdate": "1704341984063",
+      "id": 25,
+      "user": "300738267",
+      "currFrom": "AED",
+      "currTo": "AFN",
+      "value": "16",
+      "valueConvert": "310.6525727961708"
+    },
+    {
+      "dateUpdate": "1704341984252",
+      "id": 26,
+      "user": "300738267",
+      "currFrom": "AED",
+      "currTo": "AFN",
+      "value": "17",
+      "valueConvert": "330.06835859593144"
+    },
+    {
+      "dateUpdate": "1704341984391",
+      "id": 27,
+      "user": "300738267",
+      "currFrom": "AED",
+      "currTo": "AFN",
+      "value": "18",
+      "valueConvert": "349.48414439569206"
+    },
+    {
+      "dateUpdate": "1704341984572",
+      "id": 28,
+      "user": "300738267",
+      "currFrom": "AED",
+      "currTo": "AFN",
+      "value": "19",
+      "valueConvert": "368.8999301954528"
+    },
+    {
+      "dateUpdate": "1704341984713",
+      "id": 29,
+      "user": "300738267",
+      "currFrom": "AED",
+      "currTo": "AFN",
+      "value": "20",
+      "valueConvert": "388.3157159952134"
+    },
+    {
+      "dateUpdate": "1704341984876",
+      "id": 30,
+      "user": "300738267",
+      "currFrom": "AED",
+      "currTo": "AFN",
+      "value": "21",
+      "valueConvert": "407.7315017949741"
+    },
+    {
+      "dateUpdate": "1704341984981",
+      "id": 31,
+      "user": "300738267",
+      "currFrom": "AED",
+      "currTo": "AFN",
+      "value": "22",
+      "valueConvert": "427.1472875947348"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
